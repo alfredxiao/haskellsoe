@@ -1,0 +1,5 @@
+1. installed: ghc 7.10.2, cabal
+2. cabel install GLFW
+3. download HGL 3.2.3.1 source from https://hackage.haskell.org/package/HGL-3.2.3.1/HGL-3.2.3.1.tar.gz
+4. go to its source folder, cabel configure/build/install
+5. in hs source code, import  Graphics.SOE
